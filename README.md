@@ -20,9 +20,6 @@ Functionality:
 • Updating/Deleting Food in the Foods 
 • Deleting the Foods from the Cart/Orders
 
-![image](https://user-images.githubusercontent.com/110349757/209433904-b0fe6f8b-56c7-47bf-b9cd-0f06fe3718a9.png)
-
-
 <img width="865" alt="Screen Shot 2022-12-24 at 15 21 18" src="https://user-images.githubusercontent.com/110349757/209433576-4c65db4f-4db5-4878-8794-f3fb9eb04e64.png">
 
 Architecture: MVVM

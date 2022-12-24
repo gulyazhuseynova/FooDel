@@ -1,7 +1,7 @@
 # FooDel
 
 
-Technologies:
+Worked with:
 
 • Navigation Controller
 • Core Data Model
